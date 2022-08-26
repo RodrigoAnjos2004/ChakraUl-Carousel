@@ -1,0 +1,22 @@
+export const SlideData = [
+  {
+    image:
+      "https://i.pinimg.com/originals/21/e7/64/21e764d85f8a0f94bc595e53f546bcb7.jpg"
+  },
+  {
+    image:
+      "https://www.illustratedfiction.com/files/media/46103/featured-36.jpg"
+  },
+  {
+    image:
+      "https://www.illustratedfiction.com/files/media/48209/featured-19.jpg"
+  },
+  {
+    image:
+      "https://i.pinimg.com/originals/3d/51/2a/3d512a787e5174e1f8bd8aa163ef0d96.jpg"
+  },
+  {
+    image:
+      "https://i.pinimg.com/originals/90/48/bb/9048bb2a4d3c0c79bf85faf7e1cfb3ee.jpg"
+  }
+];
